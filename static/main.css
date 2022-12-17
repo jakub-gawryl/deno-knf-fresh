@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+}
+
+.grid {
+  height: 100%;
+}
+
+h1.ui.center.header {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.err-404__title {
+  font-size: 56px;
+  color: #333;
+}
+.err-404__desc {
+  font-size: 18px;
+  color: #999;
+}
+.err-404__path {
+  color: #666;
+  font-style: italic;
+}
